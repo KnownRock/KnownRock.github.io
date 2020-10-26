@@ -1,6 +1,6 @@
 importScripts('./mime.js')
 
-const HEAD = 'http://localhost:3000/apps/'
+const HEAD = 'https://knownrock.github.io/apps/'
 const START_URL_INDEX = HEAD.length
 const REGEX_GET_APP_ID = /^[^/]*/
 
