@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://knownrock.github.io/pg/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://knownrock.github.io/pg/static/js/main.f317c416.chunk.js",
+    "main.js.map": "https://knownrock.github.io/pg/static/js/main.f317c416.chunk.js.map",
+    "runtime-main.js": "https://knownrock.github.io/pg/static/js/runtime-main.9ae0af9b.js",
+    "runtime-main.js.map": "https://knownrock.github.io/pg/static/js/runtime-main.9ae0af9b.js.map",
+    "static/js/2.b4c779bc.chunk.js": "https://knownrock.github.io/pg/static/js/2.b4c779bc.chunk.js",
+    "static/js/2.b4c779bc.chunk.js.map": "https://knownrock.github.io/pg/static/js/2.b4c779bc.chunk.js.map",
+    "static/js/3.3e1ee2a5.chunk.js": "https://knownrock.github.io/pg/static/js/3.3e1ee2a5.chunk.js",
+    "static/js/3.3e1ee2a5.chunk.js.map": "https://knownrock.github.io/pg/static/js/3.3e1ee2a5.chunk.js.map",
+    "index.html": "https://knownrock.github.io/pg/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://knownrock.github.io/pg/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b4c779bc.chunk.js.LICENSE.txt": "https://knownrock.github.io/pg/static/js/2.b4c779bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae0af9b.js",
+    "static/js/2.b4c779bc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f317c416.chunk.js"
+  ]
+}
