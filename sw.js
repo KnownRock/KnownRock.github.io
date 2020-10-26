@@ -1,6 +1,6 @@
 importScripts('./mime.js')
 
-const HEAD = 'http://localhost:3000/pg/apps/'
+const HEAD = 'http://localhost:3000/apps/'
 const START_URL_INDEX = HEAD.length
 const REGEX_GET_APP_ID = /^[^/]*/
 
