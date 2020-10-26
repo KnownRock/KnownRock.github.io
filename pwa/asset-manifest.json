@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://knownrock.github.io/pwa/static/css/main.6dea0f05.chunk.css",
-    "main.js": "https://knownrock.github.io/pwa/static/js/main.f317c416.chunk.js",
-    "main.js.map": "https://knownrock.github.io/pwa/static/js/main.f317c416.chunk.js.map",
+    "main.js": "https://knownrock.github.io/pwa/static/js/main.d694a337.chunk.js",
+    "main.js.map": "https://knownrock.github.io/pwa/static/js/main.d694a337.chunk.js.map",
     "runtime-main.js": "https://knownrock.github.io/pwa/static/js/runtime-main.1a6a52f9.js",
     "runtime-main.js.map": "https://knownrock.github.io/pwa/static/js/runtime-main.1a6a52f9.js.map",
     "static/js/2.b4c779bc.chunk.js": "https://knownrock.github.io/pwa/static/js/2.b4c779bc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a6a52f9.js",
     "static/js/2.b4c779bc.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f317c416.chunk.js"
+    "static/js/main.d694a337.chunk.js"
   ]
 }
